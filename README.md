@@ -5,7 +5,7 @@
   - 2024.09.24(화) ~ 매주 1회(화요일)
 
 - 스터디 순서
-  - 신구 / 여진 / 승현
+  - 신구 / 여진 / 승현 / 원호
 
 - 소스코드 다운로드
   - git clone https://github.com/AcornPublishing/spring-boot-jpa.git
